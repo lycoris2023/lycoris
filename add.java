@@ -14,7 +14,7 @@ public class add{
             System.out.println("The sum is "+sum);   
         }
         else{
-            System.out.println("Error")
+            System.out.println("Error");
         }
     }
 }
